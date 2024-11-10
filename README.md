@@ -12,14 +12,7 @@ The dataset used for this project is an open-source HR data provided by [Data So
 ### Tools Used:
 
 - Microsoft Excel
-    1. Data Cleaning and formatting
-    2. Data Analysis
-    3. Data Visualization
-
-- SQL
-    1. Querying of data
-    2. Storing data
-    3. Retrieving data
+The dataset used was imported from Excel.
 
 - GitHub
     1. To build a portfolio
@@ -36,15 +29,16 @@ The dataset used for this project is an open-source HR data provided by [Data So
 In the initial phase of data cleaning and preparation, we carried out the following tasks:
 
 1. Data loading and inspection
-2. Handling missing variables
-3. Data cleaning and formatting
+2. Data transformation 
+3. Handling missing variables
+4. Data cleaning and formatting
 
 Exploratory Data Analysis (EDA):
 
 EDA involved exploring data to answer questions such as:
 
 - What is the overall employee satisfaction trend?
-- What is the average employee tenure?
+- Which gender have the highest employee retention rates?
 - What are the primary reasons for employee turnover?
 - Which departments have the highest employee retention rates?
 
